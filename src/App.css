@@ -5,6 +5,8 @@ body {
 form {
   margin: 150px;
   margin-bottom: 5px;
+  display: block;
+  text-align: center;
 }
 
 #search {
