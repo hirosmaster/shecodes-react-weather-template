@@ -8,6 +8,15 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <App />
+    <p>
+      This project was coded by
+      <a href="https://github.com/hirosmaster">Rica Andrea Soriano</a> and is
+      open-sourced on
+      <a href="https://github.com/hirosmaster/cows-portfolio-shecodes">
+        Github
+      </a>
+      and hosted on <a href="https://cowmical.netlify.app/">Netlify</a>
+    </p>
   </React.StrictMode>
 );
 
