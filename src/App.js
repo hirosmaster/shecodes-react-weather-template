@@ -53,7 +53,7 @@ function App() {
           <li>Humidity is at {forecast.humidity}%</li>
           <li>
             {" "}
-            <img src={forecast.icon} />
+            <img src={forecast.icon} alt="weather-icon" />
           </li>
           <li> {forecast.description} expected throughout the day </li>
         </ul>
