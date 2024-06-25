@@ -12,10 +12,11 @@ root.render(
       This project was coded by
       <a href="https://github.com/hirosmaster">Rica Andrea Soriano</a> and is
       open-sourced on
-      <a href="https://github.com/hirosmaster/cows-portfolio-shecodes">
+      <a href="https://github.com/hirosmaster/shecodes-react-weather-template">
         Github
       </a>
-      and hosted on <a href="https://cowmical.netlify.app/">Netlify</a>
+      and hosted on{" "}
+      <a href="https://master--graceful-liger-66afe0.netlify.app/">Netlify</a>
     </p>
   </React.StrictMode>
 );
